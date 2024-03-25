@@ -23,7 +23,7 @@ Live version can be viewed here: http://cs50commerce.pythonanywhere.com/
 To set up this project on your computer:
 1. Download this project
     ```
-    gti clone https://github.com/JSerwatka/CS50-Commerce.git
+    git clone https://github.com/JSerwatka/CS50-Commerce.git
     ```
 2. Install all necessary dependencies
     ```
